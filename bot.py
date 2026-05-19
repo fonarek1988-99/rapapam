@@ -4,8 +4,8 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "8393266404:AAG-cuAKYkIrwQKsGPkS3EjJw58R4oA1OOo"
-ADMIN_ID = 8452169530
+TOKEN = "8806700052:AAH-HENylUhRlNQUPzC5y-iBE4JHbJUQi3Y"
+ADMIN_ID = 8324273257
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
